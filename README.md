@@ -17,6 +17,8 @@ SISTEMA DE FACTURACIÓN EDUCATIVO
 ----------------------------------
 7. Notas de débito
 ----------------------------------
+Asiento contable
+----------------------------------
 Está hecho en PHP con base de datos MySQL
 ------------------------------------------------------------------------------------------------
 Es importante destacar que los datos de la base de datos no deben ser alterados.
